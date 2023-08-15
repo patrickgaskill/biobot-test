@@ -21,7 +21,7 @@ export default function Home() {
   );
 
   return (
-    <main className="p-24 flex flex-col space-y-8 bg-gray-50 text-gray-900 h-screen">
+    <main className="p-24 flex flex-col space-y-8  text-gray-900">
       <input
         className="border rounded border-gray-500 p-2 w-full max-w-md"
         placeholder="Search for a label ID, like 41-269-0728..."
